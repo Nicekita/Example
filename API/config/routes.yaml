@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+something:
+  path: /
+  controller: App\Controller\FirstAPI::check
